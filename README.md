@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!DOCTYPE html>
-<html>
-<body>
- 
-<svg xmlns="http://www.w3.org/2000/svg" version="1.1" height="190">
-  <polygon points="100,10 40,180 190,60 10,60 160,180"
-  style="fill:lime;stroke:purple;stroke-width:5;fill-rule:evenodd;">
-</svg>
- 
-</body>
-</html>
+<table border="1">
+    <tr>
+        <td>row 1, cell 1</td>
+        <td>row 1, cell 2</td>
+    </tr>
+    <tr>
+        <td>row 2, cell 1</td>
+        <td>row 2, cell 2</td>
+    </tr>
+</table>
