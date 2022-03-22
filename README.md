@@ -31,18 +31,17 @@ Here are some ideas to get you started:
 </div>
 
 
-
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narutohyc)](https://github.com/narutohyc/github-readme-stats)
+
 
 
 <div align="center">
 	<img  src="https://github-profile-trophy.vercel.app/?username=narutohyc" />
 </div>
-
-
 <div align="center">
 	<img  src="https://visitor-badge.glitch.me/badge?page_id=narutohyc" />
 </div>
+
 
 
 <span >
