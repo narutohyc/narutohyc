@@ -14,14 +14,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<table border="1">
-    <tr>
-        <td>row 1, cell 1</td>
-        <td>row 1, cell 2</td>
-    </tr>
-    <tr>
-        <td>row 2, cell 1</td>
-        <td>row 2, cell 2</td>
-    </tr>
-</table>
+<center><img src="https://raw.githubusercontent.com/hycBook/bk_index/master/chapters/res/other/%E6%B5%B7%E8%B4%BC%E7%8E%8B_%E5%AE%BD%E5%B1%8F.jpg"></center>
