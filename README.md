@@ -55,6 +55,12 @@ Here are some ideas to get you started:
 	<img src="https://activity-graph.herokuapp.com/graph?username=narutohyc&theme=xcode" />
 </div>
 
+
+<div align="center">
+	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=narutohyc" height=200px/>
+    <img src="https://stats.justsong.cn/api/csdn?id=u013545389"  height=200px>
+</div>
+
 <div align="center">
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=narutohyc" />
 </div>
