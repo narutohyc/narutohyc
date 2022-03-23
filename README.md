@@ -15,14 +15,13 @@ Here are some ideas to get you started:
 
 ### Hi there 👋
 <h1 align="center">
-	<a href="https://sunguoqi.com/">
-		<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);narutohyc小盆友祝您今天愉快!&center=true&size=27">
-	</a>
+	<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);narutohyc小盆友祝您今天愉快!&center=true&size=27">
 </h1>
 
-
 <center>
-  <img src="https://raw.githubusercontent.com/hycBook/bk_index/master/chapters/res/other/%E6%B5%B7%E8%B4%BC%E7%8E%8B_%E5%AE%BD%E5%B1%8F.jpg"></center>
+	<img src="https://s2.loli.net/2022/03/23/7Hhl5pBTseoObDS.jpg" >
+</center>
+
 
 ---
 
