@@ -28,17 +28,6 @@ Here are some ideas to get you started:
 
 <link rel="stylesheet" type="text/css" href="./styles/style.css>">
 
-<div class="tech-slideshow">
-  <div class="mover-1">
-	  <img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
-	  <img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
-	  <img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
-	  <img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
-	  <img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
-	  <img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
-	</div>
-</div>
-
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narutohyc)](https://github.com/narutohyc/github-readme-stats)
 
@@ -65,18 +54,16 @@ Here are some ideas to get you started:
 </div>
 
 
-<div align="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=narutohyc" height=200px/>
-    <img src="https://stats.justsong.cn/api/csdn?id=u013545389"  height=200px>
-</div>
 
 <div align="center">
 	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=narutohyc" />
 </div>
 
-
+<!-- csdn -->
 <div align="center">
-	<img src="https://stats.justsong.cn/api/csdn?id=u013545389">
+	<a href="https://blog.csdn.net/u013545389">
+		<img src="https://stats.justsong.cn/api/csdn?id=u013545389">
+	</a>
 </div>
 
 
