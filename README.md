@@ -54,24 +54,9 @@ Here are some ideas to get you started:
 	<img src="https://activity-graph.herokuapp.com/graph?username=narutohyc&theme=xcode" />
 </div>
 
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narutohyc" width="300"/>
-  <img src="https://stats.justsong.cn/api/csdn?id=u013545389"  width="200"/>
-</div>
-
-
-
-<div align="center">
-	<img  src="https://github-readme-streak-stats.herokuapp.com/?user=narutohyc" />
-</div>
-
 <!-- csdn -->
 <div align="center">
-	<a href="https://blog.csdn.net/u013545389">
-		<img src="https://stats.justsong.cn/api/csdn?id=u013545389">
-	</a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narutohyc" width="500"/>
+  <img src="https://stats.justsong.cn/api/csdn?id=u013545389" width="350" />
 </div>
-
-
 
