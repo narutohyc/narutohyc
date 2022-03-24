@@ -12,12 +12,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ### Hi there 👋
+<!-- 酷酷壁纸 -->
 <center>
 	<img src="https://s2.loli.net/2022/03/23/7Hhl5pBTseoObDS.jpg" >
 </center>
 
+<!-- 动态写代码 -->
 <h1 align="center">
 	<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);narutohyc小盆友祝您今天愉快!&center=true&size=27">
 </h1>
@@ -51,6 +52,12 @@ Here are some ideas to get you started:
 
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=narutohyc&theme=xcode" />
+</div>
+
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narutohyc" />
+  <img src="https://stats.justsong.cn/api/csdn?id=u013545389" />
 </div>
 
 
