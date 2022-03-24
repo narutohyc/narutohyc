@@ -56,8 +56,8 @@ Here are some ideas to get you started:
 
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narutohyc" />
-  <img src="https://stats.justsong.cn/api/csdn?id=u013545389" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narutohyc" width="300"/>
+  <img src="https://stats.justsong.cn/api/csdn?id=u013545389"  width="200"/>
 </div>
 
 
