@@ -18,6 +18,13 @@ Here are some ideas to get you started:
 	<img src="https://s2.loli.net/2022/03/23/7Hhl5pBTseoObDS.jpg" >
 </center>
 
+
+:scorpius:
+
+	U+264F
+	
+	:U+1F3B5:
+
 <!-- 动态写代码 -->
 <h1 align="center">
 	<img src="https://readme-typing-svg.herokuapp.com/?lines=console.log(%22Hello%2C%20World!%22);narutohyc小盆友祝您今天愉快!&center=true&size=27">
