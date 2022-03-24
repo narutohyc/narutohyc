@@ -12,18 +12,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 👋
+### Hi there :shipit:
 <!-- 酷酷壁纸 -->
 <center>
 	<img src="https://s2.loli.net/2022/03/23/7Hhl5pBTseoObDS.jpg" >
 </center>
 
 
-:scorpius:
 
-	U+264F
-	
-	:U+1F3B5:
+<link rel="stylesheet" type="text/css" href="https://github.com/narutohyc/narutohyc/blob/main/styles/style.css">
+
+
 
 <!-- 动态写代码 -->
 <h1 align="center">
@@ -34,7 +33,6 @@ Here are some ideas to get you started:
 	<img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
-<link rel="stylesheet" type="text/css" href="./styles/style.css>">
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narutohyc)](https://github.com/narutohyc/github-readme-stats)
@@ -51,9 +49,8 @@ Here are some ideas to get you started:
 
 
 <span >
-	<img  src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
-	<img  src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />
-	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
+	<img  src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" />
+	<img  src="https://img.shields.io/badge/-java-1572B6?style=flat-square&logo=java" />
 </span>
 
 <!-- narutohyc's contribution graph -->
@@ -67,3 +64,6 @@ Here are some ideas to get you started:
   <img src="https://stats.justsong.cn/api/csdn?id=u013545389" width="300" />
 </div>
 
+<div align="center">
+    <img src="https://w.wallhaven.cc/full/8o/wallhaven-8ok8p1.jpg">
+</div>
