@@ -42,15 +42,12 @@ Here are some ideas to get you started:
 <div align="center">
 	<img  src="https://github-profile-trophy.vercel.app/?username=narutohyc" />
 </div>
-<div align="center">
-	<img  src="https://visitor-badge.glitch.me/badge?page_id=narutohyc" />
-</div>
-
 
 
 <span >
 	<img  src="https://img.shields.io/badge/-python-E34F26?style=flat-square&logo=python&logoColor=white" />
 	<img  src="https://img.shields.io/badge/-java-1572B6?style=flat-square&logo=java" />
+	<img  src="https://visitor-badge.glitch.me/badge?page_id=narutohyc" />
 </span>
 
 <!-- narutohyc's contribution graph -->
