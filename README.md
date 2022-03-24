@@ -26,6 +26,19 @@ Here are some ideas to get you started:
 	<img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
 </div>
 
+<link rel="stylesheet" type="text/css" href="./styles/style.css>">
+
+<div class="tech-slideshow">
+  <div class="mover-1">
+	  <img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
+	  <img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
+	  <img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
+	  <img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
+	  <img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
+	  <img src="https://metrics.lecoq.io/narutohyc?template=classic&config.timezone=Asia%2FShanghai">
+	</div>
+</div>
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narutohyc)](https://github.com/narutohyc/github-readme-stats)
 
