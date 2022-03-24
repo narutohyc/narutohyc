@@ -49,14 +49,14 @@ Here are some ideas to get you started:
 	<img  src="https://img.shields.io/badge/-JavaScript-oringe?style=flat-square&logo=javascript" />
 </span>
 
-
+<!-- narutohyc's contribution graph -->
 <div align="center">
 	<img src="https://activity-graph.herokuapp.com/graph?username=narutohyc&theme=xcode" />
 </div>
 
 <!-- csdn -->
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narutohyc" width="500"/>
-  <img src="https://stats.justsong.cn/api/csdn?id=u013545389" width="350" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=narutohyc" width="400"/>
+  <img src="https://stats.justsong.cn/api/csdn?id=u013545389" width="300" />
 </div>
 
