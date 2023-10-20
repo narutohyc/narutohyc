@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there :shipit:
+### Hi there 🌱:
 <!-- 酷酷壁纸 -->
 <center>
 	<img src="https://s2.loli.net/2022/03/23/7Hhl5pBTseoObDS.jpg" >
@@ -37,7 +37,7 @@ Here are some ideas to get you started:
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=narutohyc)](https://github.com/narutohyc/github-readme-stats)
 
-
+---
 
 <div align="center">
 	<img  src="https://github-profile-trophy.vercel.app/?username=narutohyc" />
