@@ -13,6 +13,24 @@ Here are some ideas to get you started:
 -->
 
 ### Hi there 🌱:
+
+🔭 I'm currently working on: I specialize in deep learning and natural language processing (NLP). Currently, I am deeply involved in researching and implementing projects in these fields.
+
+🌱 I'm currently learning: I am constantly learning and exploring the latest technologies and methodologies in the realms of deep learning and NLP.
+
+👯 I'm looking to collaborate on: I'm open to collaborating with peers interested in deep learning and NLP to explore and contribute to advancements in the field.
+
+🤔 I'm looking for help with: If there are questions or challenges related to deep learning or NLP, I'm eager to seek and accept assistance and advice.
+
+💬 Ask me about: Feel free to ask me questions about deep learning, NLP, or related topics.
+
+📫 How to reach me: You can find more information by visiting my website https://study.hycbook.com/ or reaching out through the contact details provided on the website.
+
+😄 Pronouns: He/him (please modify based on your actual pronouns).
+
+⚡ Fun fact: My website https://study.hycbook.com/ offers interesting and in-depth resources related to deep learning. Feel free to explore!
+
+
 <!-- 酷酷壁纸 -->
 <center>
 	<img src="https://s2.loli.net/2022/03/23/7Hhl5pBTseoObDS.jpg" >
