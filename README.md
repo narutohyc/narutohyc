@@ -12,7 +12,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hi there 🌱:
+## Welcome to My GitHub Profile! 🚀
+
+Hello there! 👋 I'm narutohyc, a passionate individual exploring the realms of deep learning and natural language processing (NLP). This GitHub repository is a space where I share my projects, research, and contributions to the exciting world of artificial intelligence.
 
 🔭 I'm currently working on: I specialize in deep learning and natural language processing (NLP). Currently, I am deeply involved in researching and implementing projects in these fields.
 
@@ -29,6 +31,25 @@ Here are some ideas to get you started:
 😄 Pronouns: He/him (please modify based on your actual pronouns).
 
 ⚡ Fun fact: My website https://study.hycbook.com/ offers interesting and in-depth resources related to deep learning. Feel free to explore!
+
+
+### About Me
+
+- 👨‍💻 I'm deeply involved in projects related to deep learning and NLP.
+- 🌱 I'm constantly learning and staying updated with the latest technologies in these fields.
+- 🤝 I'm open to collaborations and discussions with fellow enthusiasts in the AI community.
+
+### Explore My Repositories
+
+Feel free to explore my repositories, where you'll find a mix of personal projects, experiments, and contributions to open source. If you have any questions or suggestions, don't hesitate to reach out!
+
+### Connect with Me
+
+- 🌐 Website: [https://study.hycbook.com/](https://study.hycbook.com/)
+- 📧 Email: [1832044043@qq.com](mailto:1832044043@qq.com)
+- 📘 Facebook: [narutohyc](https://www.facebook.com/profile.php?id=100009080520214)
+
+Thanks for visiting! 🌟 Let's learn and build together in the fascinating world of AI!
 
 
 <!-- 酷酷壁纸 -->
