@@ -28,8 +28,6 @@ Hello there! 👋 I'm narutohyc, a passionate individual exploring the realms of
 
 📫 How to reach me: You can find more information by visiting my website https://study.hycbook.com/ or reaching out through the contact details provided on the website.
 
-😄 Pronouns: He/him (please modify based on your actual pronouns).
-
 ⚡ Fun fact: My website https://study.hycbook.com/ offers interesting and in-depth resources related to deep learning. Feel free to explore!
 
 
